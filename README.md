@@ -1,4 +1,5 @@
 # Devops-aula02
 Scarlet Johansson
-Vin Diesel
+Keanu Reeves
 Al Pacino
+Tom Cruise
