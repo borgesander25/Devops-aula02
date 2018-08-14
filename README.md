@@ -1,2 +1,4 @@
 # Devops-aula02
-Primeiro Exercício
+Scarlet Johansson
+Vin Diesel
+Al Pacino
